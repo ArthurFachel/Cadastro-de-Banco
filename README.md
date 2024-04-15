@@ -1,2 +1,2 @@
 # Cadastro-de-Banco
-Cadastro de banco, com deposito por cpf, listagem por ordem alfabética. C
+Cadastro de banco, com deposito por cpf, listagem por ordem alfabética. Construido em C
